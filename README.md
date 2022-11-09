@@ -3,10 +3,11 @@
 ##
 
 <h3 align="center">Meu histórico 😉  
-<div align="center"><br>
-  <a href="https://github.com/Fabiodev331">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fabiodev331&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabiodev331&layout=compact&langs_count=7&theme=dark"/>
+<div align="center"> <br>
+  <a href="github.com/Fabiodev331">
+     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Fabiodev331&count_private=true&include_all_commits=true&show_icons=true&theme=dark&hide_border=false&show_owner=true"/>
+     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabiodev331&theme=dark&hide_border=false&&layout=compact"/>
+  </a>
 </div>
 
 ##
@@ -26,7 +27,7 @@
 ##
 
   <h3 align="center">Redes sociais
-<div> 
+<div> <br> 
   <a href="https://www.instagram.com/devprogramador" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "jffabio1996@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/fabio-silva-5a4317216" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
